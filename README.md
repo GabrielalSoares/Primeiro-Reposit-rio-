@@ -11,5 +11,5 @@ Pequeno projeto para praticar GitHub e Markdown.
 - Disciplina:Desenvolvimento para Back-end
 
 # Objetivo:📌
-Esse repositório será usado para armazenamento de links necessários que serão utilizados em aulas da disciplina.
+Esse repositório será utilizado para armazenamento de links necessários que serão usados em aulas da disciplina.
 além de auxiliar o aprendizado sobre versionamento.
